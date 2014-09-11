@@ -1,0 +1,620 @@
+{
+ "log": [
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_10.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.990193", 
+    "state": "completed", 
+    "stopped": "2014-08-25 11:13:46.990827", 
+    "results": "59853396\n  Mrv0541 01071314182D          \nhttp://www.chemnavigator.com\n 32 34  0  0  0  0            999 V2000\n    1.3282    1.0395    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0\n    0.5363    0.7837    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n", 
+    "elapsed": "0:00:00.000634"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_15.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.992711", 
+    "state": "completed", 
+    "stopped": "2014-08-25 11:13:46.993107", 
+    "results": "50353704\n  Mrv0541 01081304362D          \nhttp://www.chemnavigator.com\n 25 26  0  0  0  0            999 V2000\n    1.2515    1.1949    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0\n    0.5363    0.7838    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n", 
+    "elapsed": "0:00:00.000396"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_12.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.991443", 
+    "state": "completed", 
+    "stopped": "2014-08-25 11:13:46.991926", 
+    "results": "49793100\n  Mrv0541 01061321112D          \nhttp://www.chemnavigator.com\n 35 38  0  0  0  0            999 V2000\n    2.6714    6.9714    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    3.3888    7.3846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n", 
+    "elapsed": "0:00:00.000483"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_28.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.997090", 
+    "exc_value": "Intentional dummy-processing error.", 
+    "exc_traceback": "  File \"logger_test.py\", line 151, in memoize_to_log\n    attempt['results'] = processing(*arguments)\n\n  File \"logger_test.py\", line 244, in dummy_processing\n    raise RuntimeError(\"Intentional dummy-processing error.\")\n", 
+    "state": "errored", 
+    "stopped": "2014-08-25 11:13:46.997188", 
+    "elapsed": "0:00:00.000098", 
+    "exc_type": "RuntimeError"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_37.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:47.000484", 
+    "exc_value": "Intentional dummy-processing error.", 
+    "exc_traceback": "  File \"logger_test.py\", line 151, in memoize_to_log\n    attempt['results'] = processing(*arguments)\n\n  File \"logger_test.py\", line 244, in dummy_processing\n    raise RuntimeError(\"Intentional dummy-processing error.\")\n", 
+    "state": "errored", 
+    "stopped": "2014-08-25 11:13:47.000596", 
+    "elapsed": "0:00:00.000112", 
+    "exc_type": "RuntimeError"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_42.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:47.002281", 
+    "state": "completed", 
+    "stopped": "2014-08-25 11:13:47.002652", 
+    "results": "14290472\n  Mrv0541 01081306032D          \nhttp://www.chemnavigator.com\n 12 12  0  0  0  0            999 V2000\n   -1.0313   -1.2540    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.7755   -0.4620    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n", 
+    "elapsed": "0:00:00.000371"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_36.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:47.000243", 
+    "exc_value": "Intentional dummy-processing error.", 
+    "exc_traceback": "  File \"logger_test.py\", line 151, in memoize_to_log\n    attempt['results'] = processing(*arguments)\n\n  File \"logger_test.py\", line 244, in dummy_processing\n    raise RuntimeError(\"Intentional dummy-processing error.\")\n", 
+    "state": "errored", 
+    "stopped": "2014-08-25 11:13:47.000343", 
+    "elapsed": "0:00:00.000100", 
+    "exc_type": "RuntimeError"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_23.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.995586", 
+    "exc_value": "Intentional dummy-processing error.", 
+    "exc_traceback": "  File \"logger_test.py\", line 151, in memoize_to_log\n    attempt['results'] = processing(*arguments)\n\n  File \"logger_test.py\", line 244, in dummy_processing\n    raise RuntimeError(\"Intentional dummy-processing error.\")\n", 
+    "state": "errored", 
+    "stopped": "2014-08-25 11:13:46.995706", 
+    "elapsed": "0:00:00.000120", 
+    "exc_type": "RuntimeError"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_33.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.998969", 
+    "state": "completed", 
+    "stopped": "2014-08-25 11:13:46.999363", 
+    "results": "22855889\n  Mrv0541 01071310172D          \nhttp://www.chemnavigator.com\n 36 38  0  0  0  0            999 V2000\n    1.2516    1.1949    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0\n    0.5363    0.7838    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n", 
+    "elapsed": "0:00:00.000394"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_09.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.989571", 
+    "state": "completed", 
+    "stopped": "2014-08-25 11:13:46.990111", 
+    "results": "59357306\n  Mrv0541 01061322512D          \nhttp://www.chemnavigator.com\n 33 36  0  0  0  0            999 V2000\n   -1.0313   -1.2540    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.2317   -1.4617    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n", 
+    "elapsed": "0:00:00.000540"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_34.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.999446", 
+    "state": "completed", 
+    "stopped": "2014-08-25 11:13:46.999881", 
+    "results": "61731155\n  Mrv0541 01071309372D          \nhttp://www.chemnavigator.com\n 33 35  0  0  0  0            999 V2000\n    2.2193    1.1719    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0\n    1.4273    0.9162    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n", 
+    "elapsed": "0:00:00.000435"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_44.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:47.002999", 
+    "exc_value": "Intentional dummy-processing error.", 
+    "exc_traceback": "  File \"logger_test.py\", line 151, in memoize_to_log\n    attempt['results'] = processing(*arguments)\n\n  File \"logger_test.py\", line 244, in dummy_processing\n    raise RuntimeError(\"Intentional dummy-processing error.\")\n", 
+    "state": "errored", 
+    "stopped": "2014-08-25 11:13:47.003132", 
+    "elapsed": "0:00:00.000133", 
+    "exc_type": "RuntimeError"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_03.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.985806", 
+    "state": "completed", 
+    "stopped": "2014-08-25 11:13:46.986375", 
+    "results": "24030851\n  Mrv0541 01081305152D          \nhttp://www.chemnavigator.com\n 35 37  0  0  0  0            999 V2000\n   -0.1898   -1.2787    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.9083   -1.6841    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n", 
+    "elapsed": "0:00:00.000569"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_11.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.990966", 
+    "state": "completed", 
+    "stopped": "2014-08-25 11:13:46.991361", 
+    "results": "9888519\n  Mrv0541 01071305422D          \nhttp://www.chemnavigator.com\n 25 26  0  0  0  0            999 V2000\n    1.2515    1.1948    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n    0.5363    0.7837    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n", 
+    "elapsed": "0:00:00.000395"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_14.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.992256", 
+    "state": "completed", 
+    "stopped": "2014-08-25 11:13:46.992628", 
+    "results": "56413335\n  Mrv0541 01071322202D          \nhttp://www.chemnavigator.com\n 33 34  0  0  0  0            999 V2000\n    6.2545    0.7785    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0\n    5.5404    1.1915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n", 
+    "elapsed": "0:00:00.000372"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_04.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.986458", 
+    "state": "completed", 
+    "stopped": "2014-08-25 11:13:46.987084", 
+    "results": "54942464\n  Mrv0541 01071300332D          \nhttp://www.chemnavigator.com\n 23 24  0  0  0  0            999 V2000\n    1.2515    1.1948    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n    0.5363    0.7837    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n", 
+    "elapsed": "0:00:00.000626"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_31.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.998258", 
+    "state": "completed", 
+    "stopped": "2014-08-25 11:13:46.998644", 
+    "results": "54229011\n  Mrv0541 01071301572D          \nhttp://www.chemnavigator.com\n 27 27  0  0  0  0            999 V2000\n    1.2515    1.1949    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0\n    1.6626    0.4796    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n", 
+    "elapsed": "0:00:00.000386"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_17.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.993433", 
+    "state": "completed", 
+    "stopped": "2014-08-25 11:13:46.993829", 
+    "results": "56533375\n  Mrv0541 01071318352D          \nhttp://www.chemnavigator.com\n 28 29  0  0  0  0            999 V2000\n    1.2515    1.1948    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0\n    1.6626    0.4796    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n", 
+    "elapsed": "0:00:00.000396"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_01.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.984479", 
+    "state": "completed", 
+    "stopped": "2014-08-25 11:13:46.984967", 
+    "results": "14119904\n  Mrv0541 01071320532D          \nhttp://www.chemnavigator.com\n 19 20  0  0  0  0            999 V2000\n    1.2515    1.1948    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n    0.5363    0.7837    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n", 
+    "elapsed": "0:00:00.000488"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_19.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.994153", 
+    "state": "completed", 
+    "stopped": "2014-08-25 11:13:46.994529", 
+    "results": "50849340\n  Mrv0541 01071321372D          \nhttp://www.chemnavigator.com\n 38 42  0  0  0  0            999 V2000\n   -3.0688    6.9860    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.7757    6.5607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n", 
+    "elapsed": "0:00:00.000376"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_32.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.998726", 
+    "exc_value": "Intentional dummy-processing error.", 
+    "exc_traceback": "  File \"logger_test.py\", line 151, in memoize_to_log\n    attempt['results'] = processing(*arguments)\n\n  File \"logger_test.py\", line 244, in dummy_processing\n    raise RuntimeError(\"Intentional dummy-processing error.\")\n", 
+    "state": "errored", 
+    "stopped": "2014-08-25 11:13:46.998825", 
+    "elapsed": "0:00:00.000099", 
+    "exc_type": "RuntimeError"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_26.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.996614", 
+    "exc_value": "Intentional dummy-processing error.", 
+    "exc_traceback": "  File \"logger_test.py\", line 151, in memoize_to_log\n    attempt['results'] = processing(*arguments)\n\n  File \"logger_test.py\", line 244, in dummy_processing\n    raise RuntimeError(\"Intentional dummy-processing error.\")\n", 
+    "state": "errored", 
+    "stopped": "2014-08-25 11:13:46.996713", 
+    "elapsed": "0:00:00.000099", 
+    "exc_type": "RuntimeError"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_46.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:47.004079", 
+    "state": "completed", 
+    "stopped": "2014-08-25 11:13:47.004851", 
+    "results": "23466922\n  Mrv0541 01081303032D          \nhttp://www.chemnavigator.com\n 40 43  0  0  0  0            999 V2000\n    3.4223   -0.1413    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0\n    2.6559   -0.4660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n", 
+    "elapsed": "0:00:00.000772"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_41.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:47.002019", 
+    "exc_value": "Intentional dummy-processing error.", 
+    "exc_traceback": "  File \"logger_test.py\", line 151, in memoize_to_log\n    attempt['results'] = processing(*arguments)\n\n  File \"logger_test.py\", line 244, in dummy_processing\n    raise RuntimeError(\"Intentional dummy-processing error.\")\n", 
+    "state": "errored", 
+    "stopped": "2014-08-25 11:13:47.002136", 
+    "elapsed": "0:00:00.000117", 
+    "exc_type": "RuntimeError"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_07.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.988355", 
+    "state": "completed", 
+    "stopped": "2014-08-25 11:13:46.989006", 
+    "results": "24260884\n  Mrv0541 01081302182D          \nhttp://www.chemnavigator.com\n 35 38  0  0  0  0            999 V2000\n    1.9001   -7.4859    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0\n    2.7251   -7.4899    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n", 
+    "elapsed": "0:00:00.000651"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_45.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:47.003277", 
+    "state": "completed", 
+    "stopped": "2014-08-25 11:13:47.003995", 
+    "results": "16283625\n  Mrv0541 01081300382D          \nhttp://www.chemnavigator.com\n 28 31  0  0  0  0            999 V2000\n   -9.4589    2.4608    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0\n   -8.7441    2.0490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n", 
+    "elapsed": "0:00:00.000718"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_25.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.996355", 
+    "exc_value": "Intentional dummy-processing error.", 
+    "exc_traceback": "  File \"logger_test.py\", line 151, in memoize_to_log\n    attempt['results'] = processing(*arguments)\n\n  File \"logger_test.py\", line 244, in dummy_processing\n    raise RuntimeError(\"Intentional dummy-processing error.\")\n", 
+    "state": "errored", 
+    "stopped": "2014-08-25 11:13:46.996455", 
+    "elapsed": "0:00:00.000100", 
+    "exc_type": "RuntimeError"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_20.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.994623", 
+    "exc_value": "Intentional dummy-processing error.", 
+    "exc_traceback": "  File \"logger_test.py\", line 151, in memoize_to_log\n    attempt['results'] = processing(*arguments)\n\n  File \"logger_test.py\", line 244, in dummy_processing\n    raise RuntimeError(\"Intentional dummy-processing error.\")\n", 
+    "state": "errored", 
+    "stopped": "2014-08-25 11:13:46.994721", 
+    "elapsed": "0:00:00.000098", 
+    "exc_type": "RuntimeError"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_27.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.996852", 
+    "exc_value": "Intentional dummy-processing error.", 
+    "exc_traceback": "  File \"logger_test.py\", line 151, in memoize_to_log\n    attempt['results'] = processing(*arguments)\n\n  File \"logger_test.py\", line 244, in dummy_processing\n    raise RuntimeError(\"Intentional dummy-processing error.\")\n", 
+    "state": "errored", 
+    "stopped": "2014-08-25 11:13:46.996951", 
+    "elapsed": "0:00:00.000099", 
+    "exc_type": "RuntimeError"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_30.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.997816", 
+    "state": "completed", 
+    "stopped": "2014-08-25 11:13:46.998177", 
+    "results": "53746807\n  Mrv0541 01071320012D          \nhttp://www.chemnavigator.com\n 27 29  0  0  0  0            999 V2000\n    0.8871   -3.9372    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n    0.4090   -3.2649    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n", 
+    "elapsed": "0:00:00.000361"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_13.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.992008", 
+    "exc_value": "Intentional dummy-processing error.", 
+    "exc_traceback": "  File \"logger_test.py\", line 151, in memoize_to_log\n    attempt['results'] = processing(*arguments)\n\n  File \"logger_test.py\", line 244, in dummy_processing\n    raise RuntimeError(\"Intentional dummy-processing error.\")\n", 
+    "state": "errored", 
+    "stopped": "2014-08-25 11:13:46.992107", 
+    "elapsed": "0:00:00.000099", 
+    "exc_type": "RuntimeError"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_35.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.999981", 
+    "exc_value": "Intentional dummy-processing error.", 
+    "exc_traceback": "  File \"logger_test.py\", line 151, in memoize_to_log\n    attempt['results'] = processing(*arguments)\n\n  File \"logger_test.py\", line 244, in dummy_processing\n    raise RuntimeError(\"Intentional dummy-processing error.\")\n", 
+    "state": "errored", 
+    "stopped": "2014-08-25 11:13:47.000095", 
+    "elapsed": "0:00:00.000114", 
+    "exc_type": "RuntimeError"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_47.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:47.004951", 
+    "state": "completed", 
+    "stopped": "2014-08-25 11:13:47.005411", 
+    "results": "26521646\n  Mrv0541 01071319242D          \nhttp://www.chemnavigator.com\n 32 34  0  0  0  0            999 V2000\n    1.2515    1.1949    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    0.5363    0.7838    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n", 
+    "elapsed": "0:00:00.000460"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_16.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.993190", 
+    "exc_value": "Intentional dummy-processing error.", 
+    "exc_traceback": "  File \"logger_test.py\", line 151, in memoize_to_log\n    attempt['results'] = processing(*arguments)\n\n  File \"logger_test.py\", line 244, in dummy_processing\n    raise RuntimeError(\"Intentional dummy-processing error.\")\n", 
+    "state": "errored", 
+    "stopped": "2014-08-25 11:13:46.993289", 
+    "elapsed": "0:00:00.000099", 
+    "exc_type": "RuntimeError"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_48.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:47.005493", 
+    "exc_value": "Intentional dummy-processing error.", 
+    "exc_traceback": "  File \"logger_test.py\", line 151, in memoize_to_log\n    attempt['results'] = processing(*arguments)\n\n  File \"logger_test.py\", line 244, in dummy_processing\n    raise RuntimeError(\"Intentional dummy-processing error.\")\n", 
+    "state": "errored", 
+    "stopped": "2014-08-25 11:13:47.005605", 
+    "elapsed": "0:00:00.000112", 
+    "exc_type": "RuntimeError"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_24.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.995851", 
+    "state": "completed", 
+    "stopped": "2014-08-25 11:13:46.996251", 
+    "results": "51552185\n  Mrv0541 01061319392D          \nhttp://www.chemnavigator.com\n 23 25  0  0  0  0            999 V2000\n    3.2161   -2.2677    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n    2.7353   -1.5973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n", 
+    "elapsed": "0:00:00.000400"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_22.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.995329", 
+    "exc_value": "Intentional dummy-processing error.", 
+    "exc_traceback": "  File \"logger_test.py\", line 151, in memoize_to_log\n    attempt['results'] = processing(*arguments)\n\n  File \"logger_test.py\", line 244, in dummy_processing\n    raise RuntimeError(\"Intentional dummy-processing error.\")\n", 
+    "state": "errored", 
+    "stopped": "2014-08-25 11:13:46.995429", 
+    "elapsed": "0:00:00.000100", 
+    "exc_type": "RuntimeError"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_02.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.985107", 
+    "state": "completed", 
+    "stopped": "2014-08-25 11:13:46.985721", 
+    "results": "11116209\n  Mrv0541 01071304592D          \nhttp://www.chemnavigator.com\n 35 37  0  0  0  0            999 V2000\n    4.3739   -1.4299    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0\n    3.7040   -1.9114    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n", 
+    "elapsed": "0:00:00.000614"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_05.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.987168", 
+    "state": "completed", 
+    "stopped": "2014-08-25 11:13:46.987696", 
+    "results": "58891121\n  Mrv0541 01071323492D          \nhttp://www.chemnavigator.com\n 34 39  0  0  0  0            999 V2000\n    2.1119   -0.4620    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0\n    1.4437    0.0165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n", 
+    "elapsed": "0:00:00.000528"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_21.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.994863", 
+    "state": "completed", 
+    "stopped": "2014-08-25 11:13:46.995247", 
+    "results": "57340050\n  Mrv0541 01071313292D          \nhttp://www.chemnavigator.com\n 25 28  0  0  0  0            999 V2000\n    3.1279    0.5346    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    2.3190    0.6967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n", 
+    "elapsed": "0:00:00.000384"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_08.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.989088", 
+    "state": "completed", 
+    "stopped": "2014-08-25 11:13:46.989477", 
+    "results": "55349135\n  Mrv0541 01061320262D          \nhttp://www.chemnavigator.com\n 35 38  0  0  0  0            999 V2000\n    1.2515    1.1949    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0\n    0.8404    1.9102    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n", 
+    "elapsed": "0:00:00.000389"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_38.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:47.000771", 
+    "state": "completed", 
+    "stopped": "2014-08-25 11:13:47.001166", 
+    "results": "8889349\n  Mrv0541 01071301182D          \nhttp://www.chemnavigator.com\n 27 29  0  0  0  0            999 V2000\n    6.7601   -3.9169    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0\n    7.5851   -3.9136    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n", 
+    "elapsed": "0:00:00.000395"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_06.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.987778", 
+    "exc_value": "Intentional dummy-processing error.", 
+    "exc_traceback": "  File \"logger_test.py\", line 151, in memoize_to_log\n    attempt['results'] = processing(*arguments)\n\n  File \"logger_test.py\", line 244, in dummy_processing\n    raise RuntimeError(\"Intentional dummy-processing error.\")\n", 
+    "state": "errored", 
+    "stopped": "2014-08-25 11:13:46.987880", 
+    "elapsed": "0:00:00.000102", 
+    "exc_type": "RuntimeError"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_43.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:47.002733", 
+    "exc_value": "Intentional dummy-processing error.", 
+    "exc_traceback": "  File \"logger_test.py\", line 151, in memoize_to_log\n    attempt['results'] = processing(*arguments)\n\n  File \"logger_test.py\", line 244, in dummy_processing\n    raise RuntimeError(\"Intentional dummy-processing error.\")\n", 
+    "state": "errored", 
+    "stopped": "2014-08-25 11:13:47.002833", 
+    "elapsed": "0:00:00.000100", 
+    "exc_type": "RuntimeError"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_40.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:47.001745", 
+    "exc_value": "Intentional dummy-processing error.", 
+    "exc_traceback": "  File \"logger_test.py\", line 151, in memoize_to_log\n    attempt['results'] = processing(*arguments)\n\n  File \"logger_test.py\", line 244, in dummy_processing\n    raise RuntimeError(\"Intentional dummy-processing error.\")\n", 
+    "state": "errored", 
+    "stopped": "2014-08-25 11:13:47.001844", 
+    "elapsed": "0:00:00.000099", 
+    "exc_type": "RuntimeError"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_18.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.993911", 
+    "exc_value": "Intentional dummy-processing error.", 
+    "exc_traceback": "  File \"logger_test.py\", line 151, in memoize_to_log\n    attempt['results'] = processing(*arguments)\n\n  File \"logger_test.py\", line 244, in dummy_processing\n    raise RuntimeError(\"Intentional dummy-processing error.\")\n", 
+    "state": "errored", 
+    "stopped": "2014-08-25 11:13:46.994009", 
+    "elapsed": "0:00:00.000098", 
+    "exc_type": "RuntimeError"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_39.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:47.001250", 
+    "state": "completed", 
+    "stopped": "2014-08-25 11:13:47.001663", 
+    "results": "48819590\n  Mrv0541 01071307182D          \nhttp://www.chemnavigator.com\n 27 27  0  0  0  0            999 V2000\n    1.2515    1.1949    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0\n    1.6626    0.4796    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n", 
+    "elapsed": "0:00:00.000413"
+   }
+  ], 
+  [
+   [
+    "/data/htdocs/cccid/build/compounds-db/data-files/virtual_chemistry/Virtual_Chemistry_29.sdf.expanded"
+   ], 
+   {
+    "started": "2014-08-25 11:13:46.997328", 
+    "state": "completed", 
+    "stopped": "2014-08-25 11:13:46.997734", 
+    "results": "52135396\n  Mrv0541 01061318512D          \nhttp://www.chemnavigator.com\n 28 30  0  0  0  0            999 V2000\n   -0.5498   -1.9239    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.8912   -2.6782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n", 
+    "elapsed": "0:00:00.000406"
+   }
+  ]
+ ]
+}
